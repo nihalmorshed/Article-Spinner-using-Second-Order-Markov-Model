@@ -25,7 +25,7 @@ The dataset used in this project is the **BBC Text Classification Dataset**, whi
 To use the notebook:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/nihalmorshed/Article-Spinner-using-Second-Order-Markov-Model
    cd Article-Spinner-using-Markov-Model
    ```
 2. Install the required dependencies:
